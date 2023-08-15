@@ -93,3 +93,23 @@ img {
 a {
   color: #fff;
 }
+
+/* Responsividade */
+
+@media screen and (max-width: 560px) {
+  .cards .card {
+    width: 70%;
+  }
+
+  .cards .card h2 {
+    font-size: 16px;
+  }
+
+  .content h1 {
+    font-size: 20px;
+  }
+
+  .content .icons i {
+    font-size: 1.2rem;
+  }
+}
