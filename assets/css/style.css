@@ -94,6 +94,14 @@ a {
   color: #fff;
 }
 
+#copyRight {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+
 /* Responsividade */
 
 @media screen and (max-width: 560px) {
