@@ -7,3 +7,7 @@ document.querySelector(".cards #ebookJs").addEventListener("click", () => {
     "https://drive.google.com/file/d/1mJNsAhFBTMV7093EfixcmABmOkkqgXko/view?usp=drive_link"
   );
 });
+
+document.querySelector(".cards #canva").addEventListener("click", () => {
+  window.open("https://go.hotmart.com/J85914084N");
+});
