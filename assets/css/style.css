@@ -102,6 +102,10 @@ a {
   color: #fff;
 }
 
+#course h2 {
+  color: rgb(0, 170, 0);
+}
+
 /* Responsividade */
 
 @media screen and (max-width: 560px) {
